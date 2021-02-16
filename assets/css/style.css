@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-h1 {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
-=======
 body {
   background: url(../css/img/apartment-185778_1920.jpg) no-repeat center center fixed;
   background-size: cover;
@@ -78,4 +74,3 @@ body {
       .footer__telefono {
         width: calc(100% - 1rem);
         padding: 1em; } }
->>>>>>> primera-rama
